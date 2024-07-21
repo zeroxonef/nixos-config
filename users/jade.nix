@@ -28,6 +28,8 @@
       fastfetch
       gnumake
       neovim
+      # Samsung flashing tool (Fuck you, Samsung!)
+      heimdall
       # GUI apps
       firefox
     ];

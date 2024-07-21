@@ -18,5 +18,9 @@
     tmux
     lynx
     tree
+    gcc
+    libusb-compat
+    libusb1
+    python38
   ];
 }
